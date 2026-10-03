@@ -1,5 +1,5 @@
-streamlit 
-ccxt 
-pandas 
-ta 
+streamlit  
+ccxt  
+pandas  
+pandas-ta  
 plotly 
